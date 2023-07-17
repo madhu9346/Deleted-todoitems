@@ -1,0 +1,21 @@
+.sub1 {
+  display: flex;
+  margin: 8px;
+  padding: 10px;
+  background-color: transparent;
+}
+.head1 {
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Bree Serif;
+  margin: 5px;
+  width: 650px;
+}
+.btn {
+  color: rgb(238, 54, 54);
+  border: 2px rgb(238, 54, 54) solid;
+  border-radius: 8px;
+  padding: 10px;
+  font-weight: bold;
+}
